@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Midnight in the Morgue",
+    "author": "Chika Unigwe",
+    "price": 10000,
+    "image": "/Chika.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Flying Up The Mountain",
+    "author": "Elizabeth Irene Baitie",
+    "price": 5000,
+    "image": "/Elizabeth.jpg"
+  },
+  {
+    "id": "3",
+    "title": "On Ladies and Handbags",
+    "author": "Mylo FreeMan",
+    "price": 14000,
+    "image": "/Mylo.jpg"
+  },
+  {
+    "id": "4",
+    "title": "The World Was In Our Hands",
+    "author": "Chitra Nagarajan",
+    "price": 17000,
+    "image": "/Chitra Nagarajan.png"
+  }
+]
